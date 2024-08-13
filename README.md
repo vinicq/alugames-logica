@@ -23,7 +23,7 @@ Este projeto foi criado com o objetivo de fornecer uma interface visual e respon
 
 ## 📸 Capturas de Tela
 
-![Sistema de Aluguel de Jogos](path/to/screenshot.png)
+![Sistema de Aluguel de Jogos](master/path/to/screenshot.png)
 
 ## 🎯 Como Usar
 
