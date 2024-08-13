@@ -1,6 +1,6 @@
 # 🎮 Sistema de Aluguel de Jogos
 
-Bem-vindo ao **Sistema de Aluguel de Jogos**! Este projeto é um aplicativo simples e interativo desenvolvido em JavaScript que permite gerenciar o aluguel de jogos de forma fácil e intuitiva. É ideal para quem está aprendendo a manipulação do DOM, gerenciamento de estados e criação de interfaces dinâmicas.
+Bem-vindo ao **Sistema de Aluguel de Jogos**! Este projeto foi desenvolvido com o objetivo de treinar lógica de programação em JavaScript, que permite gerenciar o aluguel de jogos de forma fácil e intuitiva. É ideal para quem está aprendendo a manipulação do DOM, gerenciamento de estados e criação de interfaces dinâmicas.
 
 ## 📝 Descrição do Projeto
 
