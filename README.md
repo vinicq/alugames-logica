@@ -23,7 +23,8 @@ Este projeto foi criado com o objetivo de fornecer uma interface visual e respon
 
 ## 📸 Capturas de Tela
 
-![Sistema de Aluguel de Jogos](master/path/to/screenshot.png)
+![Sistema de Aluguel de Jogos](https://github.com/user-attachments/assets/b562c66d-ef90-4f3a-96bd-bdeb7e6fc599)
+
 
 ## 🎯 Como Usar
 
